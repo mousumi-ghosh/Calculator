@@ -59,8 +59,9 @@ input[type="text"]
   border: none;
 }
 .footer {
+  position: sticky;
   bottom: 0;
-  position: relative;
+  text-align: center;
   margin-top: 1rem;
   text-align: center;
   color: #ffffff76;
